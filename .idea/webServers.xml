@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95385918-77ca-48b4-9096-fec4144a6956" name="liuyijun" url="http://82.156.78.103">
+        <fileTransfer host="82.156.78.103" port="8220" privateKey="C:\Users\huangqiang\.ssh\id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="8220" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
